@@ -6,7 +6,7 @@ Após os 5 projetos irei ganhar a **Certificação de Design responsivo para a w
 
 Objetivo: criar uma aplicação no CodePen.io que tenha função semelhante a [este](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
-Este site foi construído usando todo conhecimento adquirido em [FreeCodeCamp](www.freecodecamp.org/).
+Este site foi construído usando todo conhecimento adquirido em [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/).
 
 ## PREMISSAS:
 
@@ -44,7 +44,7 @@ Este site foi construído usando todo conhecimento adquirido em [FreeCodeCamp](w
 
 ## PRODUTO FINAL
 
-[Codepen.io](x)
+[Codepen.io](https://codepen.io/devm4ycry/pen/YzxbBav)
 
 ![image](https://user-images.githubusercontent.com/93494655/143080823-fe9bd07b-fcf8-48c9-8276-b4479dcfd8e5.png)
 
