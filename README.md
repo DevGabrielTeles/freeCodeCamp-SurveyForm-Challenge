@@ -46,4 +46,6 @@ Este site foi construído usando todo conhecimento adquirido em [FreeCodeCamp](w
 
 [Codepen.io](x)
 
-![tributepage](x)
+![SurverForm-img-01](![image](https://user-images.githubusercontent.com/93494655/143080651-cd6289b6-83b4-4c3e-ba1c-9fbe8fd29ffe.png))
+
+![SurverForm-img-02](![image](https://user-images.githubusercontent.com/93494655/143080718-3feb558a-0f67-4e72-9904-cf6d42f34632.png))
